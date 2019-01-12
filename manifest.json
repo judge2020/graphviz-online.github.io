@@ -1,0 +1,17 @@
+{
+    "name": "Graphviz Online",
+    "short_name": "Graphviz",
+    "theme_color": "#ffcbe4",
+    "background_color": "#fa99ca",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "https://graphviz.christine.website",
+    "description": "Graphviz on the go.",
+    "orientation": "any",
+    "icons": [
+        {
+            "src": "https://graphviz.christine.website/icon.png",
+            "sizes": "256x256"
+        }
+    ]
+}
