@@ -1,6 +1,6 @@
 # Introduction
 
-Author: [dreampuf](https://github.com/dreampuf/)
+Author: [dreampuf](https://github.com/dreampuf/)  
 Maintainer: [Xe](https://github.com/Xe)
 
 [GraphvizOnline](https://github.com/dreampuf/GraphvizOnline) could let you debug the graphviz languages online. This version has been edited to run as a progressive web app with full offline support.
